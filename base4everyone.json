@@ -1,5 +1,7 @@
 {
-  "name": "Who’s Base Really For?",
-  "description": "Click to reveal who it's really for 👀",
+  "name": "Base is for who?",
+  "description": "Click-to-reveal interactive NFT collection on Base.",
+  "image": "https://mx1000m.github.io/base4everyone/base4everyone.svg",
+  "external_link": "https://mx1000m.github.io/base4everyone/base4everyone.html",
   "animation_url": "https://mx1000m.github.io/base4everyone/base4everyone.html"
 }
